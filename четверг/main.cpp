@@ -2,8 +2,7 @@
 using namespace std;
 #include <string>
 #include <fstream>
-#define N 1000
-#define F 100
+/*3.    Дана целочисленная матрица {Aij}i=1..n,j=1..m (n,m<=100). Найти строку с наибольшей суммой элементов и увеличить все элементы этой строки на 1. */
 
 int main()
 {
